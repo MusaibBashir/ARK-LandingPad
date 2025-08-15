@@ -1,0 +1,6 @@
+names:
+- landingpad
+nc: 1
+path: /home/musaib/abcdefg/content/yolo_landingpad/dataset
+train: images/train
+val: images/val
